@@ -5,7 +5,7 @@ This data contains 8 columns -
 
 1. InvoiceNo: This is the Invoice number. There are 25,900 unique invoice data. It is a six-digit integral number uniquely assigned to each transaction. If this code starts with the letter ‘C’, it indicates a cancellation:
  
-2.. StockCode: This is the Product (item) code. There are 4,070 unique StockCode values. It is a five-digit integral number uniquely assigned to each distinct product. For some data, it contains special codes like — D, POST, M, C2, CRUK, Discount, POSTAGE, Manual, CARRIAGE, CRUK, and Commission:
+2. StockCode: This is the Product (item) code. There are 4,070 unique StockCode values. It is a five-digit integral number uniquely assigned to each distinct product. For some data, it contains special codes like — D, POST, M, C2, CRUK, Discount, POSTAGE, Manual, CARRIAGE, CRUK, and Commission:
 
 3. Description: This describes the product, ie — Product Name. There are 4224 unique descriptions:
  
