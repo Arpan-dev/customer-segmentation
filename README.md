@@ -32,6 +32,9 @@ This represents the Country name where each customer resides:
 ### Dataset link: 
 https://www.kaggle.com/datasets/carrie1/ecommerce-data/discussion
 
+### Blog Post: 
+https://medium.com/@arpann1997/customer-segmentation-on-ecommerce-dataset-7a1a425d8146
+
 *Programming language used - Python*
 
 ## Tool Used
