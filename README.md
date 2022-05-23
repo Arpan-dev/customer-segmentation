@@ -1,8 +1,8 @@
-##### customer-segmentation
+# customer-segmentation
 
 This project aims to analyze E-Commerce data that list purchases made by nearly 4000 customers from December 2010 to December 2021. Based on this database we performed Exploratory Data Analysis with Statistical Methods for gaining data-driven insights with machine learning. Here we used Unsupervised techniques with Python for grouping the customers by their behavioral patterns.
 
-Dataset Description
+# Dataset Description
 This data contains 8 columns -
 
 1. InvoiceNo: This is the Invoice number. There are 25,900 unique invoice data. It is a six-digit integral number uniquely assigned to each transaction. If this code starts with the letter ‘C’, it indicates a cancellation:
