@@ -28,4 +28,7 @@ This represents the unique Customer number. It is a five-digit integral number u
  
 ## 8. Country: 
 This represents the Country name where each customer resides:
+
+### Dataset link: 
+https://www.kaggle.com/datasets/carrie1/ecommerce-data/discussion
  
