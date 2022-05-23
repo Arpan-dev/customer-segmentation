@@ -1,4 +1,6 @@
-# customer-segmentation
+## customer-segmentation
+
+This project aims to analyze E-Commerce data that list purchases made by nearly 4000 customers from December 2010 to December 2021. Based on this database we performed Exploratory Data Analysis with Statistical Methods for gaining data-driven insights with machine learning. Here we used Unsupervised techniques with Python for grouping the customers by their behavioral patterns.
 
 Dataset Description
 This data contains 8 columns -
